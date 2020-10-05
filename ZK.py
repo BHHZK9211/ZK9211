@@ -57,7 +57,7 @@ logo = """
 \033[1;91m========================================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mZ K
 \033[1;96mInstagram \033[1;93m: \033[1;92mtechzk9211
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAAMIR IQBAL (aamirzk420)
+\033[1;96mFacebook  \033[1;93m: \033[1;92mZEESHAN KHAN (ZKTECH9211)
 \033[1;96mYoutube \033[1;93m: \033[1;92mZ K TECH
 \033[1;91m========================================================"""
 
@@ -77,12 +77,11 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print "\x\033[1;91m========================================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mZ K
-\033[1;96mInstagram \033[1;93m: \033[1;92mtechzk9211
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAAMIR IQBAL (aamirzk420)
-\033[1;96mYoutube \033[1;93m: \033[1;92mZ K TECH
-\033[1;91m========================================================"""
+print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
+print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 08×××××××\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
+\033[1;93m [¤] \x1b[0;31mTOOLS BY MR Z K\033\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : Z K TECH\x1b[0;31m"""
+print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
 CorrectUsername = "zk9211"
 CorrectPassword = "lovezk"
